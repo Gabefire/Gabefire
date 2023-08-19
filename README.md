@@ -1,6 +1,5 @@
 ### Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gabefire)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabefire)](https://github.com/Gabefire/github-readme-stats)
 <!--
 **Gabefire/Gabefire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
