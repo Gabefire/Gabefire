@@ -6,7 +6,7 @@ Welcome to my profile! I'm a machine learning support engineer @Labelbox. Thanks
 
 - 🌱 I’m currently learning [.NET](https://learn.microsoft.com/en-us/dotnet/core/introduction)
 
-- 📝 Check out my [blog](https://medium.com/@gunderwood14)
+- 📝 Check out my [blog](https://medium.com/@gunderwood14) on Medium
 
 - 💬 Ask me about **Web APIs**
 
