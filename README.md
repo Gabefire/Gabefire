@@ -8,7 +8,7 @@ Welcome to my profile! I'm a machine learning support engineer @Labelbox. Thanks
 
 ## Blog
 
-[![Gabe Underwood Medium](https://github-readme-medium.vercel.app/?username=Gabefire)](https://medium.com/@gunderwood14)
+[![Gabe Underwood Medium](https://github-readme-medium.vercel.app/?username=gunderwood14)](https://medium.com/@gunderwood14)
 
 ## Stats
 
