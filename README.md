@@ -4,7 +4,9 @@ Welcome to my profile! I'm a machine learning support engineer @Labelbox. Thanks
 
 - 🔭 I’m currently working on [TalkWave](https://github.com/Gabefire/TalkWave)
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning [.NET](https://learn.microsoft.com/en-us/dotnet/core/introduction)
+
+- 📝 Check out my [blog](https://medium.com/@gunderwood14)
 
 ## Stats
 
