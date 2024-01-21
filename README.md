@@ -8,7 +8,7 @@ Welcome to my profile! I'm a machine learning support engineer @Labelbox. Thanks
 
 - 📝 Check out my [blog](https://medium.com/@gunderwood14)
 
-- 💬 Ask me about **Web APIs***
+- 💬 Ask me about **Web APIs**
 
 ## Stats
 
