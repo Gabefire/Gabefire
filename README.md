@@ -6,10 +6,6 @@ Welcome to my profile! I'm a machine learning support engineer @Labelbox. Thanks
 
 - 🌱 I’m currently learning **Web Development**
 
-## Blog
-
-[![Gabe Underwood Medium](https://github-readme-medium.vercel.app/?username=gunderwood14)](https://medium.com/@gunderwood14)
-
 ## Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabefire&size_weight=0.5&count_weight=0.5&langs_count=7)
