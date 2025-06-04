@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Gabe
 
-Welcome to my profile! I'm a machine learning support engineer @Labelbox. Thanks for visiting, and I'd love to [connect](https://linkedin.com/in/gabriel-underwood-28320413a)!
+Welcome to my profile! I'm a software engineer @Labelbox. Thanks for visiting, and I'd love to [connect](https://linkedin.com/in/gabriel-underwood-28320413a)!
 
 - 🔭 I’m currently working on [TalkWave](https://github.com/Gabefire/TalkWave)
 
