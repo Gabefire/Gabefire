@@ -4,7 +4,7 @@ Welcome to my profile! I'm a software engineer @Labelbox. Thanks for visiting, a
 
 - 🔭 I’m currently working on [TalkWave](https://github.com/Gabefire/TalkWave)
 
-- 🌱 I’m currently learning [.NET](https://learn.microsoft.com/en-us/dotnet/core/introduction)
+- 🌱 I’m currently learning [Flutter](https://flutter.dev/)
 
 - 📝 Check out my [blog](https://medium.com/@gunderwood14) on Medium
 
